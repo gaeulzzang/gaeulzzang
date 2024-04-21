@@ -11,7 +11,12 @@
 
 ### Most Used Language
 <!-- most used language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaeulzzang&layout=compact)](https://github.com/gaeulzzang/github-readme-stats) <!-- Github Status --> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeulzzang&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaeulzzang&layout=compact)](https://github.com/gaeulzzang/github-readme-stats) 
+
+
+### Github Status
+<!-- Github Status --> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeulzzang&show_icons=true&theme=dracula)
 
 
 ### Solbed.ac Profile
