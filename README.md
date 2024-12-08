@@ -28,7 +28,7 @@
         <td>숙명여자대학교 소프트웨어학부 App-Web 개발 동아리</td>
       </tr>
       <tr>
-        <td>DACOS 2기</td>
+        <td>DACOS 2th</td>
         <td>2023.07~2024.07</td>
         <td>숙명여자대학교 소프트웨어학부 데이터 분석 학부 동아리</td>
       </tr>
@@ -38,12 +38,12 @@
         <td>대학생 연합 IT 벤처 창업 동아리 34기 Android 파트 YB</td>
       </tr>
       <tr>
-        <td>SOLUX 29기</td>
+        <td>SOLUX 29th</td>
         <td>2024.03~ing</td>
         <td>숙명여자대학교 프로그래밍 중앙동아리</td>
       </tr>
       <tr>
-        <td>GDGoC Sookmyung 5기</td>
+        <td>GDGoC Sookmyung 5th</td>
         <td>2024.08~ing</td>
         <td>Android 파트 Core Member</td>
       </tr>
@@ -73,12 +73,12 @@
         <td>금상(과학기술정보통신부장관상)</td>
       </tr>
       <tr>
-        <td>34기 SOPT APPJAM</td>
+        <td>34th NOW SOPT APPJAM</td>
         <td>2024.07</td>
         <td>우수상</td>
       </tr>
       <tr>
-        <td>34기 SOPTKATHON</td>
+        <td>34th NOW SOPT SOPTKATHON</td>
         <td>2024.05</td>
         <td>대상</td>
       </tr>
