@@ -43,9 +43,9 @@
         <td>숙명여자대학교 프로그래밍 중앙동아리 29기</td>
       </tr>
       <tr>
-        <td>GDGoC Sookmyung 5기</td>
+        <td>GDGoC Sookmyung</td>
         <td>2024.08~ing</td>
-        <td>Android 파트 Core Member</td>
+        <td>Google Developer Groups of Sookmyung 5기 Android 파트 Core Member</td>
       </tr>
     </tbody>
   </table>
