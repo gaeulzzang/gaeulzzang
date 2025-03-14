@@ -47,6 +47,11 @@
         <td>2024.08~ing</td>
         <td>Google Developer Groups of Sookmyung 5기 Android 파트 Core Member</td>
       </tr>
+      <tr>
+        <td>UMC 8th</td>
+        <td>2025.03~ing</td>
+        <td>대학생 IT 연합 사이드 프로젝트 동아리 Web 파트</td>
+      </tr>
     </tbody>
   </table>
   <br>
