@@ -3,6 +3,7 @@
   <h2>I’m a passionate Android Developer 💚</h2>
   <a href="mailto:gaeulzzang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gaeulzzang@gmail.com"/></a>
   <a href="mailto:gaeulzzang11@naver.com"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF&link=mailto:gaeulzzang11@naver.com"/></a>
+  <a href="https://velog.io/@gaeulzzang/posts"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@gaeulzzang/posts"/></a>
 
   <br/>
 <br/>
