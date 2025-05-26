@@ -45,7 +45,7 @@
       </tr>
       <tr>
         <td>GDGoC Sookmyung</td>
-        <td>2024.08~ing</td>
+        <td>2024.08~2025.05</td>
         <td>Google Developer Groups of Sookmyung 5기 Android 파트 Core Member</td>
       </tr>
       <tr>
