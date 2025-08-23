@@ -50,7 +50,7 @@
       </tr>
       <tr>
         <td>UMC 8th</td>
-        <td>2025.03~ing</td>
+        <td>2025.03~2025.08</td>
         <td>대학생 IT 연합 사이드 프로젝트 동아리 Web 파트</td>
       </tr>
     </tbody>
@@ -68,6 +68,11 @@
       </tr>
     </thead>
     <tbody>
+       <tr>
+        <td>UMC 8기 데모데이</td>
+        <td>2025.08</td>
+        <td>대상</td>
+      </tr>
       <tr>
         <td>DACOS & SOLUX 연합 해커톤</td>
         <td>2024.11</td>
