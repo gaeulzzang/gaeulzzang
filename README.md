@@ -3,9 +3,6 @@
   <a href="mailto:gaeulzzang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gaeulzzang@gmail.com"/></a>
   <a href="mailto:gaeulzzang11@naver.com"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF&link=mailto:gaeulzzang11@naver.com"/></a>
   <a href="https://velog.io/@gaeulzzang/posts"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@gaeulzzang/posts"/>
-  <a href="https://gaeulzzang.co.kr" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
 
   <br/>
 <br/>
